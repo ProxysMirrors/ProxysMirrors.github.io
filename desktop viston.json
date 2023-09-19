@@ -1,0 +1,10 @@
+{
+  "name": "Desktop Vision",
+  "desc": "Mirror your pc on the school chromebook (NOT A MIRROR LINK OFFICIAL LINK)",
+  "url": "https://desktop.vision/",
+  "encodedUrl": "no",
+  "icon": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/App_Icons.png",
+  "version": "v1.0.0",
+  "author": "NOTfakergamer",
+  "permissions": [ "installApp" ]
+}
