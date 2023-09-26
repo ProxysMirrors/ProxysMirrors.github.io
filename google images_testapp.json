@@ -1,0 +1,10 @@
+imag {
+  "name": "Nebula *updated url*",
+  "desc": "*Updated Url* Should works for all chromebooks",
+  "url": "https://k12-fl.k12sciencemuseum.org/",
+  "encodedUrl": "no",
+  "icon": "https://k12-fl.k12sciencemuseum.org/images/logo.png",
+  "version": "v1.0.0",
+  "author": "NOTfakergamer",
+  "permissions": [ "installApp" ]
+}
